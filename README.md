@@ -1,73 +1,78 @@
-<h1 align="center">Hi, I'm Abhishek Raut 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Raut;Data+Science+%7C+ML+%7C+Analytics;Turning+Data+Into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</h1>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek9226&color=00E5FF&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Abhishek9226?label=Followers&style=flat-square&color=00E5FF" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
+</p>
 
-<h2 align="left">🚀 About me</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:6A5ACD&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-###
+### 🚀 About me
 
-<img align="right" height="160" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+- ✨ CSE (Data Science) student passionate about transforming data into meaningful insights and real-world solutions.
+- 📊 Skilled in Python, SQL, problem-solving, and building logical & scalable software applications.
+- 🌱 Currently exploring Machine Learning, Data Analysis, and strengthening DSA concepts.
+- 🎯 Goal: To become a proficient Software Developer & Data Scientist contributing to impactful tech innovations.
+- 🤝 Open to collaboration on Data Science and Software Development projects.
+- ⚡ Quick learner with a growth mindset and strong dedication towards continuous improvement.
 
-###
+<br>
 
-<p align="left">✨ CSE (Data Science) student passionate about transforming data into meaningful insights and real-world solutions.<br>📊 Skilled in Python, SQL, problem-solving, and building logical & scalable software applications.<br>🌱 Currently exploring Machine Learning, Data Analysis, and strengthening DSA concepts.<br>🎯 Goal: To become a proficient Software Developer & Data Scientist contributing to impactful tech innovations.<br>📈 Experience working on academic and mini projects involving data analysis and machine learning.<br>🤝 Open to collaboration on Data Science and Software Development projects.<br>⚡ Quick learner with a growth mindset and strong dedication towards continuous improvement.<br>📊 Love working with data, finding patterns, and extracting meaningful insights.</p>
+### 🛠️ Tech Stack
 
-###
-
-<h2 align="left">🛠️ Tech Stack</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" title="Python"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c" title="C"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css" title="CSS3"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" title="JavaScript"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" title="Node.js"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java" title="Java"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" title="TypeScript"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" title="React"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" title="Git"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" title="HTML5"/>
+  <img width="15"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws" title="AWS"/>
 </div>
 
-###
+<br>
 
-<h2 align="left">🌍 Connect with me</h2>
+### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek9226&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9226&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="left">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abhishek9226&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://www.linkedin.com/in/abhishekraut-data/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek9226&theme=tokyo-night&hide_border=true" width="95%" />
+</p>
 
-<a href="mailto:abhiraut7666@gmail.com">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek9226&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
+</p>
 
-</div>
+<br>
 
-
-## 🎮 Contribution Graph Game
+### 🎮 Contribution Graph Game
 
 <!-- pacman -->
 <picture>
@@ -76,9 +81,17 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abhishek9226/Abhishek9226/output/pacman-contribution-graph.svg">
 </picture>
 
+<br><br>
 
+### 🌍 Connect with me
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishekraut-data/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+  <a href="mailto:abhiraut7666@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+  </a>
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00E5FF&height=100&section=footer" />
