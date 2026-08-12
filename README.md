@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ABHISHEK%20RAUT&fontSize=55&fontColor=00E5FF&animation=twinkling&fontAlignY=40&desc=Data%20Science%20%7C%20ML%20%7C%20Analytics&descAlignY=60&descSize=20&descColor=B0B0FF" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0033,100:000000&height=160&section=header&text=ABHISHEK%20RAUT&fontSize=38&fontColor=FF00FF&fontAlignY=45&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Insights;Building+Scalable%2C+Logical+Solutions;Exploring+ML+%7C+DSA+%7C+Analytics;Always+Learning%2C+Always+Building" />
+<h3><b><span style="color:#B026FF">DATA SCIENCE</span> &nbsp;✦&nbsp; <span style="color:#00FFF0">MACHINE LEARNING</span> &nbsp;✦&nbsp; <span style="color:#FF00FF">ANALYTICS</span></b></h3>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=22&duration=3000&pause=900&color=00FFF0&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Insights;Building+Scalable%2C+Logical+Solutions;Exploring+ML+%7C+DSA+%7C+Analytics;Always+Learning%2C+Always+Building" />
 
 <br>
+
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+</div>
 
 ### 🚀 About me
 
@@ -71,7 +75,7 @@ Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.xyz
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek9226&theme=redical&hide_border=true&bg_color=1a1b27" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek9226&theme=radical&hide_border=true&bg_color=1a1b27" width="95%" />
 </p>
 
 <br>
@@ -98,4 +102,4 @@ Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.xyz
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0033,100:000000&height=100&section=footer" />
