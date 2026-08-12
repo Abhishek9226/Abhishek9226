@@ -67,18 +67,16 @@
 </div>
 
 
+## 🎮 Contribution Graph Game
 
-###
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek9226/Abhishek9226/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek9226/Abhishek9226/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abhishek9226/Abhishek9226/output/pacman-contribution-graph.svg">
+</picture>
 
-<h2 align="left">📊 GitHub Stats</h2>
 
-
-![](https://github-readme-stats.vercel.app/api?username=Abhishek9226&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhishek9226&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9226&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-###
-<!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
