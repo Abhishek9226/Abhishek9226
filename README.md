@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0033,100:000000&height=160&section=header&text=ABHISHEK%20RAUT&fontSize=38&fontColor=FF00FF&fontAlignY=45&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=ABHISHEK%20RAUT&fontSize=38&fontColor=2EE6A8&fontAlignY=40&animation=fadeIn" />
 <h3><b><span style="color:#B026FF">DATA SCIENCE</span> &nbsp;✦&nbsp; <span style="color:#00FFF0">MACHINE LEARNING</span> &nbsp;✦&nbsp; <span style="color:#FF00FF">ANALYTICS</span></b></h3>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=22&duration=3000&pause=900&color=00FFF0&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Insights;Building+Scalable%2C+Logical+Solutions;Exploring+ML+%7C+DSA+%7C+Analytics;Always+Learning%2C+Always+Building" />
