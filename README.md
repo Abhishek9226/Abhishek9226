@@ -53,10 +53,10 @@
 ### 📈 Skill Proficiency
 
 <p>
-Python&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.xyz/85?title=&width=250&color=00e5ff" /><br>
+Python&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.xyz/80?title=&width=250&color=00e5ff" /><br>
 SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.xyz/80?title=&width=250&color=00e5ff" /><br>
-Machine Learning<img src="https://progress-bar.xyz/70?title=&width=250&color=00e5ff" /><br>
-Data Analysis&nbsp;&nbsp;<img src="https://progress-bar.xyz/75?title=&width=250&color=00e5ff" /><br>
+Machine Learning<img src="https://progress-bar.xyz/75?title=&width=250&color=00e5ff" /><br>
+Data Analysis&nbsp;&nbsp;<img src="https://progress-bar.xyz/85?title=&width=250&color=00e5ff" /><br>
 Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.xyz/65?title=&width=250&color=00e5ff" />
 </p>
 
